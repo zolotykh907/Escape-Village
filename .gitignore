@@ -1,0 +1,53 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity cache / generated files
+MemoryCaptures/
+Recordings/
+*.tmp
+*.bak
+*.log
+
+# Python tool cache
+__pycache__/
+*.py[cod]
+
+# Blender backup files
+*.blend[0-9]
+*.blend[0-9].meta
+
+# Local source package copies, not needed in repo
+S0606Solution/
+S0606Solution.zip
+
+# Builds and exported packages
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.unitypackage
